@@ -1,0 +1,14 @@
+{
+    "name": "skewer-deep-mining-drill-standalone",
+    "version": "0.0.3",
+    "title": "Skewer's Deep Mining Drill Standalone",
+    "author": "Raul Moreau",
+    "contact": "Discord: @raulmoreau",
+    "description": "The lost technologies of the Fulgorians hide many secrets. Including how to get the most out of the available reserves located right under your feet. Discover advanced mining technologies and provide your factory with everything it needs.\n\nFactory Must Grow!\n\nThis mod adds a new mining drill much better than vanilla ones",
+    "factorio_version": "2.0",
+    "dependencies": [
+        "? space-age",
+		"? Krastorio2",
+		"? Krastorio2-spaced-out"
+    ]
+}
